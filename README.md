@@ -1,4 +1,4 @@
-## ![](https://raw.githubusercontent.com/TsSaltan/DevelNext-GZip/bundle/src/.data/img/develnext/bundle/gzip/gzip.png) DevelNext GZip Bundle
+## ![](https://raw.githubusercontent.com/TsSaltan/DevelNext-GZip/master/src/.data/img/develnext/bundle/gzip/gzip.png) DevelNext GZip Bundle
 Пакет расширений для работы gzip функциями. Есть совместимость с gz функциями оригинального php, т.е. закодированные на сервере данные можно раскодировать в DevelNext (и наоборот).
 
 ### Поддерживаемые функции
